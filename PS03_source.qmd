@@ -62,7 +62,7 @@ Examine `txhousing` in the data viewer. You can accomplish this two different wa
 txhousing$city[8602]
 ```
 
--   The last city in the data set is **Wichita Falls** 
+-   The last city in the `txhousing` is **Wichita Falls** 
 :::
 
 ::: {.callout-note icon="false" title="Problem 2"}
